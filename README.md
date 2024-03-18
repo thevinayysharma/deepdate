@@ -9,17 +9,20 @@
 
 
 <!-- TODO'S
+25-_D'S
 
-1. Tech evaluation_timeframed: Frontend _backend? init required
+1. Tech evaluation_timeframed: Frontend _backend? init required d_1
 2. 
 
 -->
 
 ### Frontend
-- Addons: working w/t demo data store, sec, sxl, PWA
+- Addons: working w/t demo data store, sec, sxl, PWA, test
 - mainframed design
 
 ### Backend 
+<!-- cloud intgzxn ? -->
+
 -  recommendation layer
 -  analytics_compute layer __cost
 -  stats layer __system/personal
