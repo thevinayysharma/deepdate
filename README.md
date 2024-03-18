@@ -11,14 +11,23 @@
 <!-- TODO'S
 25-_D'S
 
-1. Tech evaluation_timeframed: Frontend _backend? init required d_1
-2. 
+1. Tech evaluation_timeframed: Frontend _backend? init required
+mvp ==> react - node
+
+Find blockages___ napkin math
+
+Production ==> 
+react - GO
+database: sql + cassandra ( utility based ) 
+recommendation algo_stats_backend: go
 
 -->
 
 ### Frontend
 - Addons: working w/t demo data store, sec, sxl, PWA, test
 - mainframed design
+
+- [ ] chat interface alongwith abstract_code_struct
 
 ### Backend 
 <!-- cloud intgzxn ? -->
