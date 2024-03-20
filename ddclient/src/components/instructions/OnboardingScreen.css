@@ -1,0 +1,19 @@
+/* InstructionScreen.css */
+
+.instruction-screen {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .instruction-content {
+    margin-bottom: 20px;
+  }
+  
+  .instruction-actions button {
+    margin-right: 10px;
+  }
+  

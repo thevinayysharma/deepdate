@@ -2,6 +2,10 @@ import express from "express";
 import bodyParser from "body-parser";
 import mongoose from "mongoose";
 //import cors from "cors";
+// import dotenv from "dotenv";
+// import helmet from "helmet";
+
+//import profileCreation from "./routes/profileCreation.js";  | Routes
 
 
 dotenv.config();
@@ -13,7 +17,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 //app.use(cors());
 
 /* ROUTES */
-
+const profileRoutes = require('./routes/profileRoutes');
+app.use('/api', profileRoutes);
+//analytics
+//
 
 
 /* MONGOOSE SETUP */
